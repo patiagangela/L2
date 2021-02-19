@@ -1,0 +1,30 @@
+body {
+  background-image: url("harring.jpg");
+  text-align: center;
+
+}
+
+h1 {
+  color: white;
+}
+/*I also changed the color of h3 to white because otherwise, it won't be visible*/
+h3 {
+  color: white;
+}
+#thirdDiv img {
+  width: 400px;
+
+}
+/* I asjusted the height to 700px to cover the whole picture*/
+#thirdDiv {
+  height: 700px;
+  width: 500px;
+  background-color: orange;
+  padding: 50px;
+  border: 8px solid firebrick;
+  position: relative;
+  left: 300px;
+}
+#spanId {
+  font-size: 18px;
+}
